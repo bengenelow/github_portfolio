@@ -1,4 +1,4 @@
-# portfolio
+# PORTFOLIO
 
 # LIMO Autonomous Navigation Project
 
@@ -24,7 +24,7 @@ This project simulates a **company-style robotics development cycle**, where we 
 ## 👨‍💻 My Role
 
 - Led arena design coordination and physical layout planning  
-- Developed and tested LIMO robot navigation logic using **ROS/ROS2**  
+- Developed and tested LIMO robot navigation logic using **ROS**  
 - Ensured robot-path compatibility with environment constraints  
 - Facilitated team progress, meeting deadlines and project deliverables  
 
