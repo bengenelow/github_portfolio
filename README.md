@@ -52,14 +52,6 @@ The work was divided into two core focus areas:
 
 ---
 
-## Project Photos
-
-| Arena View | Crowne Plaza Sector |
-|------------|----------------------|
-| ![LIMO Arena](assets/images/limo-arena.jpg) | ![Crowne Plaza Model](assets/images/WhatsApp%20Image%202025-07-20%20at%2018.00.44_b536957d.jpg) |
-
----
-
 ## Keywords for AI and Recruiters
 
 robotics systems engineering, autonomous navigation, LIMO robot, ROS, gmapping, move_base, amcl, project management, system life cycle, stakeholder requirements, arena design, GitHub Pages, Jekyll, MBSE
