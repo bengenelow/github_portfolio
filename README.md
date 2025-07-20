@@ -8,6 +8,16 @@ This site showcases the **LIMO Robot Project**, developed as part of a hands-on 
 
 ---
 
+## Project Photos
+
+### LIMO Robot Navigating the Arena
+![LIMO Robot](assets/images/limo.png)
+
+### Arena Sector Overview
+![Arena Sector](assets/images/WhatsApp%20Image%202025-07-20%20at%2018.00.44_746bcfea.jpg)
+
+---
+
 ## Project Overview – “What”
 
 The LIMO project was designed to simulate real-world engineering work as a trainee under a company setting. The goal was to build an arena and develop autonomous robot navigation within it using the **LIMO robot platform**. Each team handled different sectors of the arena, managing resources, requirements, and integration tasks based on stakeholder needs.
