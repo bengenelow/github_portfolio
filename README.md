@@ -10,11 +10,11 @@ This site showcases the **LIMO Robot Project**, developed as part of a hands-on 
 
 ## Project Photos
 
-### LIMO Robot Navigating the Arena
+### LIMO Robot
 ![LIMO Robot](assets/images/limo.png)
 
 ### Arena Sector Overview
-![Arena Sector](assets/images/WhatsApp%20Image%202025-07-20%20at%2018.00.44_746bcfea.jpg)
+![Arena Sector](WhatsApp Image 2025-07-20 at 18.00.44_746bcfea.jpg)
 
 ---
 
