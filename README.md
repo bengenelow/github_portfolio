@@ -22,13 +22,13 @@ The LIMO project was designed to simulate real-world engineering work as a train
 The work was divided into two core focus areas:
 
 ![Arena Sector](WhatsApp Image 2025-07-20 at 19.18.43_641996a7.jpg)
-#1. **Project Management & Arena Design**  
+1. **Project Management & Arena Design**  
    - Applied systems thinking to scope, plan, and manage the arena  
    - Sourced and built physical props according to stakeholder constraints  
    - Maintained traceability using diagrams, design decisions, and requirements  
 
 ![LIMO Robot](limo.png)
-#2. **Technical Development with the LIMO Robot**  
+2. **Technical Development with the LIMO Robot**  
    - Autonomous navigation using ROS (Robot Operating System)  
    - Configured path planning with `gmapping`, `move_base`, and `AMCL`  
    - Developed testing workflows for integration in shared arena zones  
