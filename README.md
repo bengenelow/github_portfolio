@@ -12,7 +12,7 @@ This site showcases the **LIMO Robot Project**, developed as part of a hands-on 
 ![LIMO Robot](limo.png)
 
 ### Arena Sector Overview
-![Arena Sector](WhatsApp Image 2025-07-20 at 18.00.44_746bcfea.jpg)
+![Arena Sector](WhatsApp Image 2025-07-20 at 19.18.43_641996a7.jpg)
 
 ---
 
