@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-# LIMO Robotics Systems Engineering Portfolio
+# LIMO Robotics Systems Engineering Project 1
 
 This site showcases the **LIMO Robot Project**, developed as part of a hands-on training exercise in **robotics systems engineering**. It demonstrates both technical implementation and project management using systems engineering principles.
 
