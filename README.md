@@ -1,53 +1,67 @@
 # PORTFOLIO
 
-# LIMO Autonomous Navigation Project
+# LIMO Robotics Systems Engineering Portfolio
 
-> 🚀 A real-world robotics trainee project using the AgileX LIMO robot and ROS, with a focus on systems engineering, team collaboration, and technical implementation.
+Welcome to my personal project portfolio.
 
----
-
-## 🔍 Project Overview
-
-This project simulates a **company-style robotics development cycle**, where we were tasked with designing and building a physical arena and programming the **LIMO robot** to navigate autonomously within it. The goal was to mirror how robotics engineers work in industry—with stakeholder constraints, technical design trade-offs, and collaborative implementation.
+This site showcases the **LIMO Robot Project**, developed as part of a hands-on training exercise in **robotics systems engineering**. It demonstrates both technical implementation and project management using systems engineering principles.
 
 ---
 
-## 🎯 Objective
+## Project Overview – “What”
 
-- Design and construct a shared **physical arena** reflecting real-world constraints  
-- Program the **AgileX LIMO** robot for autonomous navigation  
-- Work as a trainee **Robotics Systems Engineer** on both technical and project coordination aspects  
-- Deliver a functional **robotic system** that meets predefined stakeholder needs
+The LIMO project was designed to simulate real-world engineering work as a trainee under a company setting. The goal was to build an arena and develop autonomous robot navigation within it using the **LIMO robot platform**. Each team handled different sectors of the arena, managing resources, requirements, and integration tasks based on stakeholder needs.
 
----
-
-## 👨‍💻 My Role
-
-- Led arena design coordination and physical layout planning  
-- Developed and tested LIMO robot navigation logic using **ROS**  
-- Ensured robot-path compatibility with environment constraints  
-- Facilitated team progress, meeting deadlines and project deliverables  
+**Main Objectives:**
+- Emulate working on a company-driven project
+- Apply systems engineering across the full system life cycle
+- Test and validate a self-developed systems engineering framework
 
 ---
 
-## 🔧 Technical Highlights
+## Approach – “How”
 
-| Area               | Description |
-|--------------------|-------------|
-| 🧠 Navigation Stack | ROS-based movement, path planning, and obstacle avoidance |
-| 🧭 Sensors Used     | LiDAR, IMU, Wheel Odometry |
-| 🛠 Arena Design     | Real-world constraint simulation: 1330mm x 1500mm bounds, minimum path widths |
-| 🗂 Code Modules     | Motion control, sensor integration, path execution |
-| 📐 CAD & Sketching  | Sector layout and mock-ups for physical build |
+The work was divided into two core focus areas:
+
+1. **Project Management & Arena Design**  
+   - Applied systems thinking to scope, plan, and manage the arena  
+   - Sourced and built physical props according to stakeholder constraints  
+   - Maintained traceability using diagrams, design decisions, and requirements  
+
+2. **Technical Development with the LIMO Robot**  
+   - Autonomous navigation using ROS (Robot Operating System)  
+   - Configured path planning with `gmapping`, `move_base`, and `AMCL`  
+   - Developed testing workflows for integration in shared arena zones  
 
 ---
 
-## 📂 Project Structure
+## Results
 
-```bash
-.
-├── arena_design/         # Photos, sketches, CAD files, measurements
-├── limo_navigation_code/ # ROS packages, launch files, and nodes
-├── docs/                 # Reports, system breakdown, stakeholder needs
-├── media/                # Images, videos, and demo clips
-└── README.md             # You're here!
+- A complete sector of the arena was designed, built, and integrated with others  
+- LIMO successfully navigated the arena with localization and obstacle avoidance  
+- A working systems engineering framework was validated in practice  
+- Collaboration and technical ownership demonstrated in both design and execution phases  
+
+---
+
+## Portfolio Links
+
+- Resume: [View Document](https://docs.google.com/document/d/14lFOmSNJ-uPWQa5jV3NZmysBTFecWYBO/edit)  
+- LinkedIn: [www.linkedin.com/in/lowweiqing](https://www.linkedin.com/in/lowweiqing)  
+- GitHub Profile: [github.com/bengenelow](https://github.com/bengenelow?tab=overview&from=2025-07-01&to=2025-07-20)  
+
+---
+
+## Project Photos
+
+| Arena View | Crowne Plaza Sector |
+|------------|----------------------|
+| ![LIMO Arena](assets/images/limo-arena.jpg) | ![Crowne Plaza Model](assets/images/WhatsApp%20Image%202025-07-20%20at%2018.00.44_b536957d.jpg) |
+
+---
+
+## Keywords for AI and Recruiters
+
+robotics systems engineering, autonomous navigation, LIMO robot, ROS, gmapping, move_base, amcl, project management, system life cycle, stakeholder requirements, arena design, GitHub Pages, Jekyll, MBSE
+
+---
