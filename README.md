@@ -46,6 +46,7 @@ The work was divided into two core focus areas:
 
 ## Portfolio Links
 
+- Project Documentation: [View Document](https://docs.google.com/document/d/1YUBRzdYZU2sS9mTs_pztGssfmWJSkZ6N3H8eNT6rFFA/edit?tab=t.0#heading=h.oaa5815iver8)
 - Resume: [View Document](https://docs.google.com/document/d/14lFOmSNJ-uPWQa5jV3NZmysBTFecWYBO/edit)  
 - LinkedIn: [www.linkedin.com/in/lowweiqing](https://www.linkedin.com/in/lowweiqing)  
 - GitHub Profile: [github.com/bengenelow](https://github.com/bengenelow?tab=overview&from=2025-07-01&to=2025-07-20)  
