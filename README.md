@@ -28,7 +28,7 @@ I. **Project Management & Arena Design**
 ![LIMO Robot](limo.png)
 II. **Technical Development with the LIMO Robot**  
    - Autonomous navigation using ROS (Robot Operating System)  
-   - Configured path planning with `gmapping`, `move_base`, and `AMCL`  
+   - Configured path planning with `gmapping`, `Rtab`, and `AMCL`  
    - Developed testing workflows for integration in shared arena zones  
 
 ---
